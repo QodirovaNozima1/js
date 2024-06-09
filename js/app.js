@@ -1,3 +1,4 @@
+alert("Masalalar conloseda")
 //  {
     //masala 01
     // function perimetr(a) {
