@@ -1,4 +1,4 @@
-alert("Masalalar conloseda")
+alert("Masalalar console da")
 //  {
     //masala 01
     // function perimetr(a) {
